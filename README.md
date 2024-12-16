@@ -10,13 +10,13 @@ User-Friendly GUI: Enter a city name and instantly view details like temperature
 
 Features
 
-Simple GUI:
+1.Simple GUI:
 Input city names through a neat, clean interface.
 Displays weather data in an organized format.
-Weather Information:
+2.Weather Information:
 Real-time data for temperature, humidity, wind speed, and weather condition.
 Weather icon representing the current condition.
-Error Handling:
+3.Error Handling:
 Alerts for invalid inputs or API errors.
 
 Tech Stack
@@ -28,22 +28,22 @@ Image Handling: PIL (Python Imaging Library)
 
 How It Works
 
-Input City:
+1.Input City:
 Enter the name of the city you want to fetch weather data for.
-Fetch Weather:
+2.Fetch Weather:
 Click the "Get Weather" button to fetch real-time data from the WeatherAPI.
-View Results:
+3.View Results:
 See the city’s temperature, condition, humidity, and wind speed.
 A dynamic weather icon updates based on the current condition.
-Error Feedback:
+4.Error Feedback:
 The app will notify you if there’s an issue (e.g., invalid city name or API error).
 
 Future Enhancements
 
-Add support for 7-day weather forecasts.
-Implement a feature for saving favorite cities.
-Enhance the UI with modern design frameworks (e.g., Tkinter themes or CSS-like styling).
-Develop a desktop application version with PyInstaller.
+1.Add support for 7-day weather forecasts.
+2.Implement a feature for saving favorite cities.
+3.Enhance the UI with modern design frameworks (e.g., Tkinter themes or CSS-like styling).
+4.Develop a desktop application version with PyInstaller.
 
 Contact
 
